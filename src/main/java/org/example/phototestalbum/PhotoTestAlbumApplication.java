@@ -15,6 +15,6 @@ public class PhotoTestAlbumApplication {
 
     @RequestMapping("/")
     public String home(){
-        return "Hello World";
+        return "Hello World!!!";
     }
 }
